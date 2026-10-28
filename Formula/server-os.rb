@@ -3,8 +3,8 @@
 class ServerOS < Formula
   desc "Home server run by an AI agent: setup wizard, live panel, apps and jobs"
   homepage "https://github.com/umuryavuz96/server-os"
-  url "https://github.com/umuryavuz96/server-os/releases/download/v0.1.0/server-os-v0.1.0.tar.gz"
-  sha256 "4eb85a1a76635db63df5586664bedaa20731b7d0698d137ea8ee3257f081d640"
+  url "https://github.com/umuryavuz96/server-os/releases/download/v0.1.1/server-os-v0.1.1.tar.gz"
+  sha256 "60f8f74ba2aa05cb3d3fc300c9ab888558c6e351dea58c7b4d4b77011143baec"
   license "MIT"
 
   depends_on "go" => :build
